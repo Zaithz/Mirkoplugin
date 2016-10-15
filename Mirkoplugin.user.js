@@ -65,22 +65,4 @@ function addDiv(){
 
 }
 
-
 addDiv();
-
-
-
-/*
-function createDiv(){
-	var div = document.createElement("DIV");
-	div.className = "content-box";
-	div.innerHTML = "Content";
-}
-
-var post = document.getElementsByCLassName("entry iC");
-
-for(var i=0; i<entry.length; i++){
-	createDiv();
-	entry[i].appendChild(div);
-
-}*/
